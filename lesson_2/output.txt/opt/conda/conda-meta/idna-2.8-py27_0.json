@@ -1,0 +1,57 @@
+{
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/idna-2.8-py27_0",
+  "features": "",
+  "files": [
+    "lib/python2.7/site-packages/idna-2.8-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/idna-2.8-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/idna-2.8-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/idna-2.8-py2.7.egg-info/installed-files.txt",
+    "lib/python2.7/site-packages/idna-2.8-py2.7.egg-info/top_level.txt",
+    "lib/python2.7/site-packages/idna/__init__.py",
+    "lib/python2.7/site-packages/idna/__init__.pyc",
+    "lib/python2.7/site-packages/idna/codec.py",
+    "lib/python2.7/site-packages/idna/codec.pyc",
+    "lib/python2.7/site-packages/idna/compat.py",
+    "lib/python2.7/site-packages/idna/compat.pyc",
+    "lib/python2.7/site-packages/idna/core.py",
+    "lib/python2.7/site-packages/idna/core.pyc",
+    "lib/python2.7/site-packages/idna/idnadata.py",
+    "lib/python2.7/site-packages/idna/idnadata.pyc",
+    "lib/python2.7/site-packages/idna/intranges.py",
+    "lib/python2.7/site-packages/idna/intranges.pyc",
+    "lib/python2.7/site-packages/idna/package_data.py",
+    "lib/python2.7/site-packages/idna/package_data.pyc",
+    "lib/python2.7/site-packages/idna/uts46data.py",
+    "lib/python2.7/site-packages/idna/uts46data.pyc"
+  ],
+  "fn": "idna-2.8-py27_0.conda",
+  "legacy_bz2_md5": "8128b1c61408b43fcb6f7b9013ebe7d5",
+  "legacy_bz2_size": 136544,
+  "license": "BSD Like",
+  "link": {
+    "source": "/opt/conda/pkgs/idna-2.8-py27_0",
+    "type": 1
+  },
+  "md5": "fd757c82e291acd6b0db19d7ee8ee2b7",
+  "name": "idna",
+  "package_tarball_full_path": "/opt/conda/pkgs/idna-2.8-py27_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "idna==2.8=py27_0",
+  "sha256": "a21ad00f865e71d720b679560d675b2333d10e3f815c9f48d83d2354d457931d",
+  "size": 116728,
+  "subdir": "linux-64",
+  "timestamp": 1545082875447,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/idna-2.8-py27_0.conda",
+  "version": "2.8"
+}

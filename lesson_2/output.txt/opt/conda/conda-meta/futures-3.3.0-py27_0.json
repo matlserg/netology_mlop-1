@@ -1,0 +1,52 @@
+{
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/futures-3.3.0-py27_0",
+  "features": "",
+  "files": [
+    "lib/python2.7/site-packages/concurrent/__init__.py",
+    "lib/python2.7/site-packages/concurrent/__init__.pyc",
+    "lib/python2.7/site-packages/concurrent/futures/__init__.py",
+    "lib/python2.7/site-packages/concurrent/futures/__init__.pyc",
+    "lib/python2.7/site-packages/concurrent/futures/_base.py",
+    "lib/python2.7/site-packages/concurrent/futures/_base.pyc",
+    "lib/python2.7/site-packages/concurrent/futures/process.py",
+    "lib/python2.7/site-packages/concurrent/futures/process.pyc",
+    "lib/python2.7/site-packages/concurrent/futures/thread.py",
+    "lib/python2.7/site-packages/concurrent/futures/thread.pyc",
+    "lib/python2.7/site-packages/futures-3.3.0.dist-info/INSTALLER",
+    "lib/python2.7/site-packages/futures-3.3.0.dist-info/LICENSE",
+    "lib/python2.7/site-packages/futures-3.3.0.dist-info/METADATA",
+    "lib/python2.7/site-packages/futures-3.3.0.dist-info/RECORD",
+    "lib/python2.7/site-packages/futures-3.3.0.dist-info/WHEEL",
+    "lib/python2.7/site-packages/futures-3.3.0.dist-info/top_level.txt"
+  ],
+  "fn": "futures-3.3.0-py27_0.conda",
+  "legacy_bz2_md5": "22624f5a3e4b10c654dc9baccf852cb2",
+  "legacy_bz2_size": 28574,
+  "license": "PSF",
+  "link": {
+    "source": "/opt/conda/pkgs/futures-3.3.0-py27_0",
+    "type": 1
+  },
+  "md5": "5546c0be44976e7593b69b0c48febfb7",
+  "name": "futures",
+  "package_tarball_full_path": "/opt/conda/pkgs/futures-3.3.0-py27_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "futures==3.3.0=py27_0",
+  "sha256": "0f46cbc8d2a2f0f9dbdc9d53a2b765a3ef51058e046bf2b0b1c10c257b711641",
+  "size": 29336,
+  "subdir": "linux-64",
+  "timestamp": 1563286742065,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/futures-3.3.0-py27_0.conda",
+  "version": "3.3.0"
+}

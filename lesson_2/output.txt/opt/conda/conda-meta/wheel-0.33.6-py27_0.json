@@ -1,0 +1,77 @@
+{
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0",
+    "setuptools"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/wheel-0.33.6-py27_0",
+  "features": "",
+  "files": [
+    "bin/wheel",
+    "lib/python2.7/site-packages/wheel-0.33.6-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/wheel-0.33.6-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/wheel-0.33.6-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/wheel-0.33.6-py2.7.egg-info/entry_points.txt",
+    "lib/python2.7/site-packages/wheel-0.33.6-py2.7.egg-info/not-zip-safe",
+    "lib/python2.7/site-packages/wheel-0.33.6-py2.7.egg-info/requires.txt",
+    "lib/python2.7/site-packages/wheel-0.33.6-py2.7.egg-info/top_level.txt",
+    "lib/python2.7/site-packages/wheel/__init__.py",
+    "lib/python2.7/site-packages/wheel/__init__.pyc",
+    "lib/python2.7/site-packages/wheel/__main__.py",
+    "lib/python2.7/site-packages/wheel/__main__.pyc",
+    "lib/python2.7/site-packages/wheel/bdist_wheel.py",
+    "lib/python2.7/site-packages/wheel/bdist_wheel.pyc",
+    "lib/python2.7/site-packages/wheel/cli/__init__.py",
+    "lib/python2.7/site-packages/wheel/cli/__init__.pyc",
+    "lib/python2.7/site-packages/wheel/cli/convert.py",
+    "lib/python2.7/site-packages/wheel/cli/convert.pyc",
+    "lib/python2.7/site-packages/wheel/cli/pack.py",
+    "lib/python2.7/site-packages/wheel/cli/pack.pyc",
+    "lib/python2.7/site-packages/wheel/cli/unpack.py",
+    "lib/python2.7/site-packages/wheel/cli/unpack.pyc",
+    "lib/python2.7/site-packages/wheel/metadata.py",
+    "lib/python2.7/site-packages/wheel/metadata.pyc",
+    "lib/python2.7/site-packages/wheel/pep425tags.py",
+    "lib/python2.7/site-packages/wheel/pep425tags.pyc",
+    "lib/python2.7/site-packages/wheel/pkginfo.py",
+    "lib/python2.7/site-packages/wheel/pkginfo.pyc",
+    "lib/python2.7/site-packages/wheel/util.py",
+    "lib/python2.7/site-packages/wheel/util.pyc",
+    "lib/python2.7/site-packages/wheel/wheelfile.py",
+    "lib/python2.7/site-packages/wheel/wheelfile.pyc"
+  ],
+  "fn": "wheel-0.33.6-py27_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/conda/pkgs/wheel-0.33.6-py27_0",
+    "type": 1
+  },
+  "md5": "99d20fd656d91c2c8a50af0e9c08c4f5",
+  "name": "wheel",
+  "package_tarball_full_path": "/opt/conda/pkgs/wheel-0.33.6-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/wheel",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "a610b64038079c99d807d0accc36e2207fe932b8e1a89dddb752e787d556b2c6",
+        "sha256_in_prefix": "a76a25c4be5e841aeb1bbf1870c7c113f8efe3bfcd26fbbef292b8a4f76ee5a1",
+        "size_in_bytes": 239
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "wheel==0.33.6=py27_0",
+  "sha256": "697a1c2bc0565254cfe2b48b49707addca59767da591cf5f2f75c1fb18e73773",
+  "size": 41160,
+  "subdir": "linux-64",
+  "timestamp": 1569263315807,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/wheel-0.33.6-py27_0.tar.bz2",
+  "version": "0.33.6"
+}

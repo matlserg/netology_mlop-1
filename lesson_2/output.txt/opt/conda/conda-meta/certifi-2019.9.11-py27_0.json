@@ -1,0 +1,47 @@
+{
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/certifi-2019.9.11-py27_0",
+  "features": "",
+  "files": [
+    "lib/python2.7/site-packages/certifi-2019.9.11-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/certifi-2019.9.11-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/certifi-2019.9.11-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/certifi-2019.9.11-py2.7.egg-info/installed-files.txt",
+    "lib/python2.7/site-packages/certifi-2019.9.11-py2.7.egg-info/not-zip-safe",
+    "lib/python2.7/site-packages/certifi-2019.9.11-py2.7.egg-info/top_level.txt",
+    "lib/python2.7/site-packages/certifi/__init__.py",
+    "lib/python2.7/site-packages/certifi/__init__.pyc",
+    "lib/python2.7/site-packages/certifi/__main__.py",
+    "lib/python2.7/site-packages/certifi/__main__.pyc",
+    "lib/python2.7/site-packages/certifi/cacert.pem",
+    "lib/python2.7/site-packages/certifi/core.py",
+    "lib/python2.7/site-packages/certifi/core.pyc"
+  ],
+  "fn": "certifi-2019.9.11-py27_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "/opt/conda/pkgs/certifi-2019.9.11-py27_0",
+    "type": 1
+  },
+  "md5": "c1c3f7b088064466b72b05826e37d5f3",
+  "name": "certifi",
+  "package_tarball_full_path": "/opt/conda/pkgs/certifi-2019.9.11-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "certifi==2019.9.11=py27_0",
+  "sha256": "f54c6244f4d776a2279d5aacacb1c9cf4b9a7756811d63522aeb9d608270df6b",
+  "size": 157837,
+  "subdir": "linux-64",
+  "timestamp": 1569254339192,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/certifi-2019.9.11-py27_0.tar.bz2",
+  "version": "2019.9.11"
+}

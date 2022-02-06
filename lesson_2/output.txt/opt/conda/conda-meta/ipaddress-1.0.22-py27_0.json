@@ -1,0 +1,44 @@
+{
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/ipaddress-1.0.22-py27_0",
+  "features": "",
+  "files": [
+    "lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/installed-files.txt",
+    "lib/python2.7/site-packages/ipaddress-1.0.22-py2.7.egg-info/top_level.txt",
+    "lib/python2.7/site-packages/ipaddress.py",
+    "lib/python2.7/site-packages/ipaddress.pyc"
+  ],
+  "fn": "ipaddress-1.0.22-py27_0.conda",
+  "legacy_bz2_md5": "3ff78790b92ed2bb5c73c031db1104da",
+  "legacy_bz2_size": 33023,
+  "license": "PSF 2",
+  "license_family": "PSF",
+  "link": {
+    "source": "/opt/conda/pkgs/ipaddress-1.0.22-py27_0",
+    "type": 1
+  },
+  "md5": "6baa8701690278c67deee9e720fac44f",
+  "name": "ipaddress",
+  "package_tarball_full_path": "/opt/conda/pkgs/ipaddress-1.0.22-py27_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "ipaddress==1.0.22=py27_0",
+  "sha256": "7679abed1b173943e524ccb40e2dd2e99d01eeee3000bb8d0a7822ad3e130346",
+  "size": 33042,
+  "subdir": "linux-64",
+  "timestamp": 1523974561353,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/ipaddress-1.0.22-py27_0.conda",
+  "version": "1.0.22"
+}

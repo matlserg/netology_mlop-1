@@ -1,0 +1,48 @@
+{
+  "build": "py27_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/enum34-1.1.6-py27_1",
+  "features": "",
+  "files": [
+    "lib/python2.7/site-packages/enum/LICENSE",
+    "lib/python2.7/site-packages/enum/README",
+    "lib/python2.7/site-packages/enum/__init__.py",
+    "lib/python2.7/site-packages/enum/__init__.pyc",
+    "lib/python2.7/site-packages/enum/doc/enum.pdf",
+    "lib/python2.7/site-packages/enum/doc/enum.rst",
+    "lib/python2.7/site-packages/enum/test.py",
+    "lib/python2.7/site-packages/enum/test.pyc",
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/PKG-INFO",
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/SOURCES.txt",
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/dependency_links.txt",
+    "lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg-info/top_level.txt"
+  ],
+  "fn": "enum34-1.1.6-py27_1.conda",
+  "legacy_bz2_md5": "eaed0f82ad53c1de779afb0faf3b0873",
+  "legacy_bz2_size": 57952,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/opt/conda/pkgs/enum34-1.1.6-py27_1",
+    "type": 1
+  },
+  "md5": "ed964f9927d3d8a8096031b4836b277b",
+  "name": "enum34",
+  "package_tarball_full_path": "/opt/conda/pkgs/enum34-1.1.6-py27_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "enum34==1.1.6=py27_1",
+  "sha256": "125690e14b4580cda0d812a28c8aab829535d2bb913bbfa5d28109550084251e",
+  "size": 59263,
+  "subdir": "linux-64",
+  "timestamp": 1530735352907,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/enum34-1.1.6-py27_1.conda",
+  "version": "1.1.6"
+}
