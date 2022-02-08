@@ -12,4 +12,4 @@ RUN chmod 744 /1.sh
 RUN pip install mlflow boto3 pymysql
 
 # В конце запустить на вывод файл 1.sh.
-RUN ["/1.sh"]
+CMD ["/1.sh"]
