@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: netology-ml
+spec:
+  replicas: 2
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+  template:
+    spec:
+      containers:
+        - name: tomcat
+          image: tomcat:8.5.75-jdk17-corretto  # Образа 8.5.69 уже нет в гитхабе
+          ports:
+            - containerPort: 8080
